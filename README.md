@@ -5,7 +5,7 @@ This site showcases my work, skills, services, and contact details — built usi
 
 ## 🚀 Live Demo
 
-🌐 [View Portfolio Website]([https://manasapatgar22.github.io/Portfolio-Website/)  
+🌐 [View Portfolio Website](https://manasapatgar22.github.io/Portfolio-Website/)  
 
 ---
 
